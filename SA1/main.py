@@ -11,6 +11,9 @@ cap.set(4, 720)
 # Sort all the images in the list
 
 
+# Print the pathList
+
+
 # Load all the images in the list
 
 
